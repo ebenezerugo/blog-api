@@ -15,6 +15,9 @@ $ npm run start # This will run the application.
 $ npm run test
 ```
 
+## APIs
+- [Postman Documentation](https://documenter.getpostman.com/view/6220740/TzCJg9uA)
+
 ### Tools
-- [MONGO](https://www.mongodb.com/)
+- [MONGODB](https://www.mongodb.com/)
 - [EXPRESS](https://github.com/expressjs/express)
