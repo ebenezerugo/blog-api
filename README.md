@@ -16,5 +16,5 @@ $ npm run test
 ```
 
 ### Tools
-- [MONGO](https://www.mongodb.com/)
+- [MONGODB](https://www.mongodb.com/)
 - [EXPRESS](https://github.com/expressjs/express)
