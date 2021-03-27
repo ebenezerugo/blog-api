@@ -16,7 +16,7 @@ $ npm run test
 ```
 
 ## APIs
-- [Postman Documentation] (https://documenter.getpostman.com/view/6220740/TzCJg9uA)
+- [Postman Documentation](https://documenter.getpostman.com/view/6220740/TzCJg9uA)
 
 ### Tools
 - [MONGODB](https://www.mongodb.com/)
